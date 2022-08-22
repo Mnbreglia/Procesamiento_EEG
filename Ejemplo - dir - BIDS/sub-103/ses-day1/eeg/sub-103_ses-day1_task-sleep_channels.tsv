@@ -1,0 +1,16 @@
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status
+Fz	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+Cz	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+Pz	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+FC1	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+FC5	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+C3	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+P3	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+P4	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+C4	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+FC6	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+FC2	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+A1-A2	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+EOG2	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+EOG1	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
+EMG	EEG	µV	0.0	150.0	ElectroEncephaloGram	300.0	good
